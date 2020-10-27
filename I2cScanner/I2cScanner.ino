@@ -6,8 +6,8 @@
 
 #include <Wire.h>
 
-const int sclPin = 1;//9;
-const int sdaPin = 2;//8;
+const int sclPin = 1; //9;
+const int sdaPin = 2; //8;
 
 void setup(){
   Wire.begin(sdaPin,sclPin);
