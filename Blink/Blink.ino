@@ -1,3 +1,7 @@
+/**
+ * A basic blinking LED.
+ */
+
 #define LED_BUILTIN 4
 
 void setup() {

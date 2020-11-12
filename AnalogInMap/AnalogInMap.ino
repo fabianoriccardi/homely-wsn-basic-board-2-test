@@ -1,3 +1,8 @@
+/**
+ * Read the battery voltage.
+ * Waiting for an update... The analogRead() is actually broken.
+ */
+
 const int analogInPin = 6;
 
 void setup() {

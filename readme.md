@@ -1,3 +1,3 @@
-# Homely WSN Tests for Boards
+# Homely WSN - Basic Board V2
 
-Some small sketches to test the Homely WSN Basic Board V2 once they are assembled. You can compile and upload through Arduino IDE.
+A collection of Arduino sketches to test [Homely WSN Basic Board V2](https://easyeda.com/fabiano.riccardi/esp32-s2-breakout-board). They are intended to check if all the components are correctly soldered to the PCB. You can compile and upload these sketches with Arduino IDE. 
